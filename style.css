@@ -195,6 +195,9 @@ a:hover{text-decoration: none; cursor:pointer;}
 /* = Bric adjustment margins
 -------------------------------------------------------------- */
 
+.mg-clear{
+	margin:0;
+}
 .mg-md{
 	margin-top:10px;
 	margin-bottom:20px;
@@ -359,7 +362,7 @@ a:hover{
 	text-decoration:underline!important;
 }
 .img-9-style{
-	width:200px;
+	width:150px;
 }
 .img-feuille-sui-style{
 	width:800px;

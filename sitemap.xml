@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
 	<loc>dhftn.github.io</loc>
-	<lastmod>2022-11-25</lastmod>
+	<lastmod>2022-11-26</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>1.0</priority>
 	<image:image>
@@ -44,7 +44,7 @@
 </url>
 <url>
 	<loc>dhftn.github.io/regles_optionnelles.html</loc>
-	<lastmod>2022-11-25</lastmod>
+	<lastmod>2022-11-26</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -66,7 +66,7 @@
 </url>
 <url>
 	<loc>dhftn.github.io/feuilles-et-dossiers-de-personnage.html</loc>
-	<lastmod>2022-11-25</lastmod>
+	<lastmod>2022-11-26</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -92,7 +92,7 @@
 </url>
 <url>
 	<loc>dhftn.github.io/feuille-de-route.html</loc>
-	<lastmod>2022-11-25</lastmod>
+	<lastmod>2022-11-26</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -110,7 +110,7 @@
 </url>
 <url>
 	<loc>dhftn.github.io/ecran_mj.html</loc>
-	<lastmod>2022-11-25</lastmod>
+	<lastmod>2022-11-26</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -128,7 +128,7 @@
 </url>
 <url>
 	<loc>dhftn.github.io/cartes.html</loc>
-	<lastmod>2022-11-25</lastmod>
+	<lastmod>2022-11-26</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -150,6 +150,24 @@
 	<image:image>
 	<image:loc>dhftn.github.io/img/carte%20creature%20opposition.jpeg</image:loc>
 	<image:title>carte creature opposition.jpeg</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>dhftn.github.io/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>dhftn.github.io/img/</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+<url>
+	<loc>dhftn.github.io/credits.html</loc>
+	<lastmod>2022-11-26</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+	<image:loc>dhftn.github.io/img/logo%20FTN5E%202.png</image:loc>
+	<image:title>logo FTN5E 2</image:title>
 	</image:image>
 	<image:image>
 	<image:loc>dhftn.github.io/img/</image:loc>

@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
 	<loc>dhftn.github.io</loc>
-	<lastmod>2022-11-26</lastmod>
+	<lastmod>2023-05-24</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>1.0</priority>
 	<image:image>
@@ -10,7 +10,7 @@
 	<image:title>Dossier_personnage</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>dhftn.github.io/img/BlackSquare.png</image:loc>
+	<image:loc>dhftn.github.io/img/mockup.jpg</image:loc>
 	<image:title>BlackSquare</image:title>
 	</image:image>
 	<image:image>
@@ -44,7 +44,7 @@
 </url>
 <url>
 	<loc>dhftn.github.io/regles_optionnelles.html</loc>
-	<lastmod>2022-11-26</lastmod>
+	<lastmod>2023-05-24</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -66,12 +66,16 @@
 </url>
 <url>
 	<loc>dhftn.github.io/feuilles-et-dossiers-de-personnage.html</loc>
-	<lastmod>2022-11-26</lastmod>
+	<lastmod>2023-05-24</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
-	<image:loc>dhftn.github.io/img/Dossier_personnage.jpg</image:loc>
-	<image:title>Dossier_personnage</image:title>
+	<image:loc>dhftn.github.io/img/mockup.jpg</image:loc>
+	<image:title>mockup</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>dhftn.github.io/img/bs_ipad_mockup.jpg</image:loc>
+	<image:title>bs_ipad_mockup</image:title>
 	</image:image>
 	<image:image>
 	<image:loc>dhftn.github.io/img/BlackSquare.png</image:loc>
@@ -92,7 +96,7 @@
 </url>
 <url>
 	<loc>dhftn.github.io/feuille-de-route.html</loc>
-	<lastmod>2022-11-26</lastmod>
+	<lastmod>2023-05-24</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -110,7 +114,7 @@
 </url>
 <url>
 	<loc>dhftn.github.io/ecran_mj.html</loc>
-	<lastmod>2022-11-26</lastmod>
+	<lastmod>2023-05-24</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -128,7 +132,7 @@
 </url>
 <url>
 	<loc>dhftn.github.io/cartes.html</loc>
-	<lastmod>2022-11-26</lastmod>
+	<lastmod>2023-05-24</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -162,7 +166,7 @@
 </url>
 <url>
 	<loc>dhftn.github.io/credits.html</loc>
-	<lastmod>2022-11-26</lastmod>
+	<lastmod>2023-05-24</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
